@@ -1,0 +1,30 @@
+<html>
+<title>
+About
+</title>
+
+<body>
+
+
+  <font color="blue" face="Animal Silence" size="10">
+
+      <h1 align="center">About Me</h1>
+
+
+
+          <p align="center">Hi! Im a young youtuber gamer and programer.</p>
+
+            <p align="center">Im here to create things for you to enjoy!</p>
+
+                <p align="center">If you would like to see me program click the video to the right. If you would like to see me play videogames than click the video on the left </p>
+
+
+
+                <right><iframe width="500" height="420" src="https://www.youtube.com/embed/pCpoEkVrlgE">
+                </iframe></right>
+
+                <left><iframe width="500" height="420" src="https://www.youtube.com/embed/x41HGINM87k">
+                </iframe></left>
+
+</body>
+</html>
